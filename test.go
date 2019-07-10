@@ -1,5 +1,17 @@
 //.... config.go
 
+
+// local updates from macbookpro
+
+func GetFile(){
+
+/// get file
+
+}
+
+
+
+
 //SetEnvVarsFromConfigFiles
 
 // get all the env vars and convert them to a map for easy referencing later.
